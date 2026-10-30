@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+build/
+app/build/
+.kotlin/
+.codesight/
+local.properties
+out/
