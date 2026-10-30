@@ -19,3 +19,6 @@ app/build/
 .codesight/
 local.properties
 out/
+keystore.properties
+*.jks
+*.keystore
